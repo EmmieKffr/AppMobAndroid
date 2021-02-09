@@ -1,2 +1,0 @@
-# AppMobAndroid
- Groupe 11
