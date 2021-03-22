@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TextViews -->
+    <dimen name="size_title">60sp</dimen>
+    <dimen name="padding_title">100dip</dimen>
+    <dimen name="padding_title_land">20dip</dimen>
+    <dimen name="phrase_descrip" >580dp</dimen>
+
+    <!-- Images -->
+    <dimen name="size_image_height">400dip</dimen>
+    <dimen name="size_image_width">475dip</dimen>
+    <dimen name="rond_size_width">375dp</dimen>
+    <dimen name="rond_size_height">320dp</dimen>
+    <dimen name="image_position">550dp</dimen>
+
+
+    <dimen name="image_enregistrement_width">475dp</dimen>
+    <dimen name="image_enregistrement_height">525</dimen>
+
+    <dimen name="position_image_enregistrement">100dp</dimen>
+
+    <!--Bouton -->
+    <dimen name="size_text_bouton">20dip</dimen>
+    <dimen name="size_bouton">30dip</dimen>
+    <dimen name="position_bouton">670dp</dimen>
+</resources>
